@@ -212,6 +212,27 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# User uploads
+uploads/
+
+# Generated files
+output/jobs/
+output/*.mp4
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
 __marimo__/
 
 # Streamlit
